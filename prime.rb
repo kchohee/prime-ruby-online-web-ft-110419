@@ -5,3 +5,5 @@
 # any negative number is not prime, 0 is not prime, 1 is not prime
 def prime?(num)
   puts [1..6]
+
+prime?(6)
