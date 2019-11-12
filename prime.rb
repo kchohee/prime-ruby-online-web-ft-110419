@@ -4,7 +4,7 @@
 #ex: if number = 5 , then start 2 is divisible?, then 3 is divisible?, then 4 is divisible?
 # any negative number is not prime, 0 is not prime, 1 is not prime
 def prime?(num)
-  if num <=1
+  if num <= 1
     return false
   end
  counter = 2
